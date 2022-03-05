@@ -1,3 +1,4 @@
 # learning Git in VSC
 
--- second code line
+-- second code line, hello world
+git
